@@ -1,2 +1,5 @@
-# api-4epg
-ste es un proyecto escolar owo
+<?php
+
+$variable1=$_GET['amaya'];
+$variable2=$_GET['ale'];
+echo "hello" .$variable1." ".  $varaible2. "!!!!";
